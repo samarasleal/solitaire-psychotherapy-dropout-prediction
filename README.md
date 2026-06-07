@@ -60,8 +60,7 @@ This repository does not contain raw clinical audio or directly identifiable pat
 
 ## License
 
-- Dataset/features: CC BY 4.0;
-- Code: MIT License or Apache 2.0.
+- MIT License or Apache 2.0.
 
 ## Versioning
 
